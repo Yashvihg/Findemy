@@ -1,0 +1,16 @@
+.footer-class {
+    background-color: black;
+    color: white;
+    padding: 2em;
+  }
+  
+  .language-button{
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+  }
+
+  .footer-col{
+    padding: 1em;
+  }
+  

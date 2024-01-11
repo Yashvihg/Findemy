@@ -1,0 +1,43 @@
+.mainFormContainer {
+  width: 30rem;
+  max-width: 100%;
+  padding: 2rem 2.4rem;
+}
+
+.button-class {
+  /* width: 100%; */
+  pointer-events: none;
+}
+
+.icon-login{
+    padding: 0.2em;
+}
+.icon{
+    padding-right: 1em;
+}
+.comm-icon {
+  color: rgb(126, 126, 126);
+  padding-left: 0.1em;
+}
+
+.login-button-form {
+  background-color: #a435f0;
+  border: 2px solid #a435f0;
+  color: white;
+  font-size: 1.2em;
+  font-weight: 700;
+  padding: 0.6em;
+  /* pointer-events: none; */
+  width: 100%;
+}
+
+.login-button-form:hover {
+  background-color: #7f27b9;
+  border: 2px solid #7f27b9;
+  color: white;
+}
+
+.login-button-form:active {
+  background-color: #7f27b9 !important;
+  border: 2px solid #7f27b9 !important;
+}

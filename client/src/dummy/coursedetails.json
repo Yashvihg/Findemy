@@ -1,0 +1,106 @@
+[
+    {
+        "_id": "abc11",
+        "title": "The Complete Web Development Bootcamp",
+        "instructorName": "Dr. Angela Yu",
+        "rating": 4,
+        "imageUrl": "https://img-b.udemycdn.com/course/240x135/1565838_e54e_16.jpg",
+        "price": 200,
+        "popularity": "Bestseller"
+    },
+    {
+        "_id": "abc12",
+        "title": "iOS & Swift - The Complete iOS App Development Bootcamp",
+        "instructorName": "Dr. Angela Yu",
+        "rating": 4.5,
+        "imageUrl": "https://img-b.udemycdn.com/course/240x135/2776760_f176_10.jpg",
+        "price": 200,
+        "popularity": "Bestseller"
+
+    },
+    {
+        "_id": "abc13",
+        "title": "The Web Developer Bootcamp 2023",
+        "instructorName": "Colt Steele",
+        "rating": 4.7,
+        "imageUrl": "https://img-b.udemycdn.com/course/240x135/625204_436a_3.jpg",
+        "price": 200,
+        "popularity": "Bestseller"
+    },
+    {
+        "_id": "abc14",
+        "title": "Complete JavaScript Course: From Zero to Expert!",
+        "instructorName": "Jonas Schmedtmann",
+        "rating": 4.2,
+        "imageUrl": "https://img-b.udemycdn.com/course/240x135/851712_fc61_6.jpg",
+        "price": 20000,
+        "popularity": "Bestseller"
+    },
+    {
+        "_id": "abc15",
+        "title": "React Complete Guide (Hooks, React Router, Redux)",
+        "instructorName": "Maximilian Schwarzmüller",
+        "rating": 3.5,
+        "imageUrl": "https://img-b.udemycdn.com/course/240x135/1362070_b9a1_2.jpg",
+        "price": 200,
+        "popularity": "Bestseller"
+    },
+    {
+        "_id": "abc11",
+        "title": "The Complete Web Development Bootcamp",
+        "instructorName": "Dr. Angela Yu",
+        "rating": 5,
+        "imageUrl": "https://img-b.udemycdn.com/course/240x135/1565838_e54e_16.jpg",
+        "price": 200,
+        "popularity": "Bestseller"
+    },
+    {
+        "_id": "abc12",
+        "title": "iOS & Swift - The Complete iOS App Development Bootcamp",
+        "instructorName": "Dr. Angela Yu",
+        "rating": 3,
+        "imageUrl": "https://img-b.udemycdn.com/course/240x135/2776760_f176_10.jpg",
+        "price": 200,
+        "popularity": "Bestseller"
+
+    },
+    {
+        "_id": "abc13",
+        "title": "The Web Developer Bootcamp 2023",
+        "instructorName": "Colt Steele",
+        "rating": 4.5,
+        "imageUrl": "https://img-b.udemycdn.com/course/240x135/625204_436a_3.jpg",
+        "price": 200,
+        "popularity": "Bestseller"
+    },
+    {
+        "_id": "abc14",
+        "title": "Complete JavaScript Course: From Zero to Expert!",
+        "instructorName": "Jonas Schmedtmann",
+        "rating": 4.5,
+        "imageUrl": "https://img-b.udemycdn.com/course/240x135/851712_fc61_6.jpg",
+        "price": 20000,
+        "popularity": "Bestseller"
+    },
+    {
+        "_id": "abc15",
+        "title": "React Complete Guide (Hooks, React Router, Redux)",
+        "instructorName": "Maximilian Schwarzmüller",
+        "rating": 4.8,
+        "imageUrl": "https://img-b.udemycdn.com/course/240x135/1362070_b9a1_2.jpg",
+        "price": 200,
+        "popularity": "Bestseller"
+    },
+    {
+        "_id": "abc16",
+        "title": "Ultimate AWS Certified Solutions Architect Associate SAA-C03",
+        "instructorName": "Stephane Maarek",
+        "rating": 4.7,
+        "imageUrl": "https://img-b.udemycdn.com/course/480x270/2196488_8fc7_10.jpg",
+        "price": 390,
+        "popularity": "Bestseller"
+    }
+    
+]
+
+

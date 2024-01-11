@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* font-family: udemy sans, sf pro text, -apple-system, BlinkMacSystemFont,
+Roboto, segoe ui, Helvetica, Arial, sans-serif, apple color emoji,
+segoe ui emoji, segoe ui symbol; */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+a:visited {
+  text-decoration: none !important;
+}
+
+.card-title {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

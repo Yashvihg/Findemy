@@ -1,0 +1,24 @@
+// import React from "react";
+// type ButtonProps = {
+//   children: string | React.ReactNode | React.ReactNode[];
+//   backgroundColor?: string;
+//   textColor?: string;
+//   className?:string;
+//   type?: 'button' | 'submit' | 'reset';
+// //   borderColor:string;
+// };
+// export default function Button(props: ButtonProps) {
+//   return (
+//     <button
+//       type={props.type || "button"}
+//       className={`btn rounded-0  ${props.className}`}
+//       style={{
+//         backgroundColor: props.backgroundColor || "#000",
+//         color: props.textColor || "#fff",
+        
+//       }}
+//     >
+//       {props.children}
+//     </button>
+//   );
+// }

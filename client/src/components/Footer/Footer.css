@@ -1,0 +1,31 @@
+.footer-class {
+  background-color: #1c1d1f;
+  color: white;
+  padding: 2em;
+}
+
+.language-button,
+.language-button-mobile {
+  background-color: #1c1d1f;
+  border: 1px solid white;
+  color: white;
+}
+.row-list {
+  padding: 0.2em;
+  padding-left: 0.7em;
+}
+
+.language-button-mobile {
+  display: inline-block;
+}
+.language-button {
+  display: none;
+}
+@media screen and (min-width: 768px) {
+  .language-button-mobile {
+    display: none;
+  }
+  .language-button {
+    display: inline-block;
+  }
+}

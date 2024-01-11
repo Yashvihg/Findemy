@@ -1,0 +1,102 @@
+.header-main-div{
+  z-index: 34;
+}
+
+.navbar-container {
+  height: 4em;
+}
+.search-bar {
+  border: 2px solid black;
+  border-radius: 2em;
+}
+
+.nav-icon {
+  padding: 0.6em;
+}
+
+.input-field {
+  outline: none;
+  padding-left: 1em;
+  width: 90%;
+}
+
+.nav-button {
+  height: fit-content;
+  border: none;
+  padding: 0.6em;
+  margin: 0.3em;
+  width: 5em;
+  border: 2px solid black;
+  font-weight: 500;
+}
+.cart-icon {
+  display: inline-block;
+  margin: 0.3em;
+}
+
+.globe-button {
+  width: fit-content;
+}
+
+.search-bar {
+  display: none;
+}
+.search-icon-mobile {
+  display: inline;
+}
+
+.avatar{
+  color: white;
+  background-color: black;
+  width: 2.6em;
+  height: 2.6em;
+  font-weight: 600;
+  font-size: 1.3em;
+}
+
+.dropdown-toggle::after {
+  content: none !important;
+}
+.dropdown-toggle::before {
+  content: none !important;
+}
+
+/* .dropstart {
+  background-color: black;
+  border-radius: 50%;
+}
+.navBarBtn {
+  border-radius: 50%;
+} */
+
+.avatar-buttons{
+  border: none;
+  background-color: transparent;
+  text-align: center;
+  padding: 0.6em;
+  padding-left: 1em;
+  font-weight: 600;
+}
+.loginBtns .btn-primary {
+  --bs-btn-color: #fff;
+   --bs-btn-bg: black !important; 
+   --bs-btn-border-color:black !important;
+   --bs-btn-border-radius: 50% !important;
+}
+
+@media screen and (min-width: 768px) {
+  .search-bar {
+    display: inline-block;
+  }
+
+  .search-icon {
+    display: inline-block;
+  }
+
+  .cart-icon {
+    display: inline-block;
+  }
+  .search-icon-mobile {
+    display: none;
+  }
+}
